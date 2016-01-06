@@ -2,9 +2,13 @@
 
 ## Overview
 
-At the surface, this project is about learning and recognizing common ruby errors.  But it's really about training you to think like an engineer.
+At the surface, this project is about learning and recognizing common ruby errors.
 
-You'll be better at solving a bug on your own, even when you don't know the answer at first.  Rather than teaching you separate nuggets of knowledge about ruby, this project teaches you how to fish.  And how to solve your problem on your own, every time.
+But it's really about training you to think like an engineer.
+
+The Goal: To teach you how to solve a bug on your own, even when you don't know the answer at first.  Rather than learning separate nuggets of knowledge about ruby, you will learn [how to fish][how-to-fish].
+
+[how-to-fish]: https://calum.org/posts/teach-a-man-to-fish
 
 ## Instructions
 
