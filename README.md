@@ -4,31 +4,60 @@
 
 At the surface, this project is about learning and recognizing common ruby errors.
 
-But it's really about training you to think like an engineer.
+Almost all of these errors are bugs that students hit in their projects (and that engineers hit in the real world).
 
-The Goal: To teach you how to solve a bug on your own, even when you don't know the answer at first.  Rather than learning separate nuggets of knowledge about ruby, you will learn [how to fish][how-to-fish].
+But this project is really about training you to think like an engineer.  The faster you narrow down bugs:
+
+1. The faster you learn.
+2. The more time you save each time you debug something new.
+3. The more you can solve problems on your own.
+
+You are learning [how to fish][how-to-fish].
 
 [how-to-fish]: https://calum.org/posts/teach-a-man-to-fish
 
+## Don'ts
+**Do NOT look up code on the master branch during the project.  Looking up the answer is cheating and defies the purpose of the project.  We will come after your firstborn.**
+
+**Do NOT give other students the solution when they ask you. Only offer them new approaches that they can take.**
+
+## Tips
+
+Make a list of strategies you've been using to debug as you go along.
+
+If you want to print something out, use the debugger instead. Stop the code and poke around.  Don't use puts statements if you can avoid it.
+
+Reference [this debugging post][learn-to-debug] if you get stuck and need ideas.
+
+[learn-to-debug]: https://carryonmyabramson.wordpress.com/2015/12/11/learn-to-debug-and-save-six-weeks-a-year/
+
+
 ## Instructions
 
-Disclaimer: Please do NOT look up the correct code on the master branch during the project.  This is cheating and will defy the entire purpose of the project.  We will come after your firstborn.
+### Setup
 
-1.  Clone this repo to your computer.  Run `git clone #{ADD URL HERE}`
-2.  Start on the `master` branch, which has a working version of the game.
-3.  Run `ruby sudoku.rb` and fill a few spots to get a feel for how the game *should* work with correct code.
-4.  Starting with level-1, for each level:
-    1. Check out that level's code (i.e., run `git checkout level-1`, `git checkout level-2`, etc.).
-    2. Run `ruby sudoku.rb` and try to fill a few spots.  There are no bugs that you can't catch in more than two turns.
-    3. Your game will break somehow.
-    4. Figure out how to fix it using the strategies you've learned.  You are allowed to write extra code, new methods, etc.  You are allowed to use the scientific method.  Your approaches can be creative.
-    5. Ask students near you if you run out of approaches and are dumbfounded for more than 5 minutes.
-    6. Run `ruby sudoku.rb` and make sure the game plays like the master version.
+1.  Start on the `master` branch, which has a working version of the game.
+2.  Run `ruby sudoku.rb` and fill a few spots to get a feel for how the game works with correct code.
+
+### Gameplay
+
+Beat all the levels.  You can list all the levels by running `git branch`.
+
+Starting with `level-1`, for each level:
+
+1. Check out that level's code (e.g., run `git checkout level-1`, `git checkout level-2`, etc.).
+2. Run `ruby sudoku.rb` and try to fill a few spots.  You can catch every bug within two turns.
+3. Your game will break somehow.
+4. Figure out how to fix it using the strategies you've learned.  You are allowed to write extra code and new methods if necessary.  You are allowed to use the scientific method.  Your approaches are allowed to be creative.
+5. If you run out of approaches and are dumbfounded for more than 5 minutes, ask students near you for approaches to try.
+6. Run `ruby sudoku.rb` and make sure the game plays like the master version.
+
+Make sure you do the `final-level` at the end.  If you finish it, we'll put your picture on the wall and you'll get a free 12-inch sub (offer void in Nebraska).
 
 
 ## You finished???
 
 Excellent sleuthing, Holmes.
 
-Make up three new levels (each on different branches) with three new tricky errors.  Submit those levels as pull requests to the repo.
+Make up three new levels (each on different branches) with three new tricky errors.  Get another group that has finished to try them.
 
