@@ -36,8 +36,12 @@ Reference [this debugging post][learn-to-debug] if you get stuck and need ideas.
 
 ### Setup
 
-1.  Start on the `master` branch, which has a working version of the game.
-2.  Run `ruby sudoku.rb` and fill a few spots to get a feel for how the game works with correct code.
+1. Create a new repo on github.  Call it `skrewedoku` (or whatever you want).
+2. We want to be able to say `git push origin master` (or `git push origin level-1`, `git push origin level-2`, etc.) and have your code go to the repo that you just made.
+3. Update the origin of this repo to point at the URL of your new repo.  Google 'update origin git' or something similar to figure out what command to run.
+4. Push this code to origin, make sure it shows up on github.
+5.  Start on the `master` branch, which has a working version of the game.
+6.  Run `ruby sudoku.rb` and fill a few spots to get a feel for how the game works with correct code.
 
 ### Gameplay
 
@@ -51,6 +55,7 @@ Starting with `level-1`, for each level:
 4. Figure out how to fix it using the strategies you've learned.  You are allowed to write extra code and new methods if necessary.  You are allowed to use the scientific method.  Your approaches are allowed to be creative.
 5. If you run out of approaches and are dumbfounded for more than 5 minutes, ask students near you for approaches to try.
 6. Run `ruby sudoku.rb` and make sure the game plays like the master version.
+7. Add and commit your change once the code works.
 
 Make sure you do the `final-level` at the end.  If you finish it, we'll put your picture on the wall and you'll get a free 12-inch sub (offer void in Nebraska).
 
