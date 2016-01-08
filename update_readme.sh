@@ -5,5 +5,7 @@ for branch in $BRANCHES; do
   git checkout master README.md;
   git add -A;
   git commit -m "Update README.md";
-  gitppr;
+  git push;
 done
+
+git checkout master;
