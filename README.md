@@ -42,7 +42,8 @@ Reference [this debugging post][learn-to-debug] if you get stuck and need ideas.
 4. Update the origin of this repo to point at the URL of your new repo.  Google 'update origin git' or something similar to figure out what command to run.
 5. Push this code to origin, make sure it shows up on github.
 6. Start on the `master` branch, which has a working version of the game.
-7. Run `ruby sudoku.rb` and fill a few spots to get a feel for how the game works with correct code.
+7. Run `bundle install`
+8. Run `ruby sudoku.rb` and fill a few spots to get a feel for how the game works with correct code.
 
 ### Gameplay
 
