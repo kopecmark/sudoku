@@ -36,12 +36,13 @@ Reference [this debugging post][learn-to-debug] if you get stuck and need ideas.
 
 ### Setup
 
-1. Create a new repo on github.  Call it `skrewedoku` (or whatever you want).
-2. We want to be able to say `git push origin master` (or `git push origin level-1`, `git push origin level-2`, etc.) and have your code go to the repo that you just made.
-3. Update the origin of this repo to point at the URL of your new repo.  Google 'update origin git' or something similar to figure out what command to run.
-4. Push this code to origin, make sure it shows up on github.
-5.  Start on the `master` branch, which has a working version of the game.
-6.  Run `ruby sudoku.rb` and fill a few spots to get a feel for how the game works with correct code.
+1. Run `./git_setup.sh`.
+2. Create a new repo on github.  Call it `skrewedoku` (or whatever you want).
+3. We want to be able to say `git push origin master` (or `git push origin level-1`, `git push origin level-2`, etc.) and have your code go to the repo that you just made.
+4. Update the origin of this repo to point at the URL of your new repo.  Google 'update origin git' or something similar to figure out what command to run.
+5. Push this code to origin, make sure it shows up on github.
+6. Start on the `master` branch, which has a working version of the game.
+7. Run `ruby sudoku.rb` and fill a few spots to get a feel for how the game works with correct code.
 
 ### Gameplay
 
