@@ -5,7 +5,10 @@ echo $BRANCHES
 
 for branch in $BRANCHES; do
   git checkout $branch;
-  git branch -D -r "origin/$branch"
+done
+
+for branch in $BRANCHES; do
+  git branch -D "origin/$branch"
 done
 
 git checkout master;
