@@ -68,3 +68,6 @@ Excellent sleuthing, Holmes.
 
 Make up three new levels (each on different branches) with three new tricky errors.  Get another group that has finished to try them.
 
+## Copyright
+
+© Asher King Abramson and App Academy.  All rights reserved.  Do not share without written consent of the authors.
