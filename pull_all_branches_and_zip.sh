@@ -1,12 +1,10 @@
 ./git_setup.sh
 
-pushd ..
+cd ..
 
-  echo $PWD;
-  zip -r screwdoku.zip screwedoku;
-  mv screwedoku.zip screwedoku/;
-
-popd
+echo $PWD;
+zip -r screwdoku.zip screwedoku;
+mv screwedoku.zip screwedoku/;
 
 
 echo ""
