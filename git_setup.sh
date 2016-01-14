@@ -11,4 +11,4 @@ for branch in $BRANCHES; do
 done
 
 git checkout master;
-
+bundle install;
