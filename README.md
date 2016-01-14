@@ -60,7 +60,7 @@ Starting with `level-1`, for each level:
 6. Run `ruby sudoku.rb` and make sure the game plays like the master version.
 7. Add and commit your change once the code works.
 
-Make sure you do the `final-level` at the end.  If you finish it, we'll put your picture on the wall and you'll get a free 12-inch sub (offer void in Nebraska).
+Make sure you do the `final-level` and `super-evil-level` at the end.  If you finish it, we'll put your picture on the wall and you'll get a free 12-inch sub (offer void in Nebraska).
 
 
 ## You finished???
