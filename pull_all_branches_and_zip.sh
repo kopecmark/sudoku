@@ -3,7 +3,7 @@
 cd ..
 
 echo $PWD;
-zip -r screwdoku.zip screwedoku;
+zip -r screwedoku.zip screwedoku;
 mv screwedoku.zip screwedoku/;
 
 
