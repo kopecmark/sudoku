@@ -3,4 +3,4 @@
 cd ..
 
 echo $PWD
-zip -r screwdoku.zip screwdoku
+zip -r screwdoku.zip screwedoku
