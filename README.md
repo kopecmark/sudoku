@@ -74,7 +74,7 @@ Make up three new levels (each on different branches) with three new tricky erro
 
 ## For TAs: Making changes
 
-If you want to update the README or affect all the levels, commit your changes on master and then run the `update.sh` script.
+If you want to update the README or affect all the levels, commit your changes on master and then run the `update.sh` script.  For example `update.sh Gemfile`.
 
 Then run the pull_all_branches_and_zip.sh to make a new zipfile out of the project for students.
 
