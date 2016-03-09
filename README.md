@@ -19,6 +19,7 @@ You are learning [how to fish][how-to-fish].
 [how-to-fish]: https://calum.org/posts/teach-a-man-to-fish
 
 ## Don'ts
+
 **Do NOT look up code on the master branch during the project.  Looking up the answer is cheating and defies the purpose of the project.  We will come after your firstborn.**
 
 **Do NOT give other students the solution when they ask you. Only offer them new approaches that they can take.**
@@ -29,9 +30,9 @@ Make a list of strategies you've been using to debug as you go along.
 
 If you want to print something out, use the debugger instead. Stop the code and poke around.  Don't use puts statements if you can avoid it.
 
-Reference [this debugging post][learn-to-debug] if you get stuck and need ideas.
+If you get stuck and need ideas, reference our [debugging cheatsheet][debugging cheatsheet].
 
-[learn-to-debug]: https://carryonmyabramson.wordpress.com/2015/12/11/learn-to-debug-and-save-six-weeks-a-year/
+[debugging cheatsheet]: https://github.com/appacademy/ruby-curriculum/blob/master/w1d5/debugging_cheatsheet.md
 
 
 ## Instructions
