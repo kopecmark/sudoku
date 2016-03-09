@@ -72,6 +72,13 @@ Excellent sleuthing, Holmes.
 
 Make up three new levels (each on different branches) with three new tricky errors.  Get another group that has finished to try them.
 
+## For TAs: Making changes
+
+If you want to update the README or affect all the levels, commit your changes on master and then run the `update.sh` script.
+
+Then run the pull_all_branches_and_zip.sh to make a new zipfile out of the project for students.
+
+
 ## Copyright
 
 © Asher King Abramson and App Academy.  All rights reserved.  Do not share without written consent of the authors.
