@@ -39,8 +39,11 @@ If you get stuck and need ideas, reference our [debugging cheatsheet][debugging 
 
 ### Setup
 
-1. Run `bundle install`.
-2. Start on the `master` branch, which has a working version of the game.
+1. Download the [zip file][zip file] (click "View Raw" to download).
+2. Run `bundle install`.
+3. Start on the `master` branch, which has a working version of the game.
+
+[zip file]: ./screwedoku.zip
 
 ### Gameplay
 
