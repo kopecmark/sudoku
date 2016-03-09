@@ -40,11 +40,7 @@ If you get stuck and need ideas, reference our [debugging cheatsheet][debugging 
 ### Setup
 
 1. Run `bundle install`.
-2. Create a new repo on github.  Call it `skrewedoku` (or whatever you want).
-3. We want to be able to say `git push origin master` (or `git push origin level-1`, `git push origin level-2`, etc.) and have your code go to the repo that you just made.
-4. Update the origin of this repo to point at the URL of your new repo.  Google 'update origin git' or something similar to figure out what command to run.
-5. Push this code to origin, make sure it shows up on github.
-6. Start on the `master` branch, which has a working version of the game.
+2. Start on the `master` branch, which has a working version of the game.
 
 ### Gameplay
 
