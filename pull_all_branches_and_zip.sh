@@ -1,5 +1,6 @@
 ./git_setup.sh
 
+rm -f screwedoku.zip
 cd ..
 
 zip -r screwedoku.zip screwedoku;
