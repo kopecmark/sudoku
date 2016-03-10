@@ -15,3 +15,6 @@ If you're zipping up this project, run the pull_and_create.sh script to zip it. 
 ## Copyright
 
 © Asher King Abramson and App Academy.  All rights reserved.  Do not share without written consent of the authors.
+
+
+[zip file]: ./screwedoku.zip
