@@ -1,2 +1,6 @@
 .byebug_history
+<<<<<<< HEAD
 .DS_STORE
+=======
+*.zip
+>>>>>>> 718a9ef0ae5f505c1f2f3181e42a6736deb7f019
