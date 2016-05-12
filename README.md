@@ -2,7 +2,7 @@
 
 Students: Ask a TA to send out the zipfile.
 
-TAs: If you're zipping up this project, run the pull_and_create.sh script to zip it.  Don't just run the `zip` command.
+TAs: If you're zipping up this project, run the `pull_all_branches_and_create.sh` script to zip it.  Don't just run the `zip` command.
 
 
 ## For TAs: Making changes
